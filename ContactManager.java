@@ -32,7 +32,7 @@ class ContactManager {
             }
             
         }
-        System.out.println("Contact cannot be found");
+        System.out.println("Contact" + name + " cannot be found");
         System.out.println("___________________________________________");
     }
 
