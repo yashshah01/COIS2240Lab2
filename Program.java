@@ -13,6 +13,7 @@ public class Program {
     
             // Remove a contact
             manager.removeContact("Alaadin");
+            manager.removeContact("Alaadin");
     
             // List contacts again to see the change
             manager.listContacts();

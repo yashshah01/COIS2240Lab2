@@ -33,6 +33,7 @@ class ContactManager {
             
         }
         System.out.println("Contact cannot be found");
+        System.out.println("___________________________________________");
     }
 
     // Method to list all Contacts
